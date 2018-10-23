@@ -260,4 +260,4 @@ Several SWCarpentry episodes covering the basics of bash and Github are embedded
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
 
-{% include links.md %}
+
